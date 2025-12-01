@@ -201,7 +201,7 @@ If you’re stuck or unsure:
 Open a GitHub Issue with the label question
 Or start a GitHub Discussion (if enabled)
 Or contact the maintainers at:
-velquest@protonmail.com
+velavan@velquest.org
 We’d much rather you ask early than stay blocked.
 
 Thank you for helping build DASTG into a shared, humane infrastructure for animals and communities.
