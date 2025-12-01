@@ -181,3 +181,131 @@ Street animals face:
 ---
 
 ## 📁 Repository Structure
+
+DASTG/
+├── designs/ # Shelter blueprints, CAD files, materials lists
+├── operations/ # SOPs for maintenance, TNR, feeding, health
+├── templates/ # Forms, checklists, report templates
+├── training/ # Volunteer onboarding, business setup guides
+├── resources/ # Supplier contacts, vet networks, funding sources
+├── community/ # Success stories, local chapters, discussions
+└── docs/ # Governance, transparency, FAQs
+
+
+📖 **[Full Repository Guide](docs/getting-started.md)**
+
+---
+
+## 🤝 How to Contribute
+
+We welcome contributions from:
+- 🛠️ Designers and architects
+- 📊 Data and operations specialists
+- 🐾 Animal welfare advocates
+- 📣 Community organizers
+- 💻 Developers and documentarians
+
+### Ways to Contribute
+
+1. **Improve Designs**
+   - Submit better shelter designs
+   - Optimize for cost, durability, or local materials
+
+2. **Translate Documentation**
+   - Help make DASTG accessible in multiple languages
+
+3. **Share Your Experience**
+   - Document your local shelter setup
+   - Add success stories to [`community/success-stories.md`](community/success-stories.md)
+
+4. **Report Issues**
+   - Found a problem with a design or guide?
+   - Open an issue with details
+
+5. **Suggest Improvements**
+   - Have ideas for better operations or community engagement?
+   - Start a discussion or submit a pull request
+
+📖 **[Read Full Contribution Guidelines](CONTRIBUTING.md)**
+
+---
+
+## 💬 Community & Support
+
+### Connect With Us
+
+- **GitHub Discussions:** Ask questions, share ideas, connect with other chapters
+- **Local Chapters:** Find or start a DASTG group in your area
+- **Success Stories:** Read how others have implemented DASTG
+
+### Need Help?
+
+- Check the **[FAQ](docs/faq.md)**
+- Review **[Getting Started Guide](docs/getting-started.md)**
+- Open a **GitHub Issue** for technical questions
+- Join **GitHub Discussions** for community support
+
+---
+
+## 🏛️ Governance & Transparency
+
+DASTG is committed to:
+
+- **Registered Entity Management:** Operated by a registered organization
+- **Bank-Based Financial Tracking:** All funds are traceable
+- **Open Reporting:** Regular updates on fund allocation, shelter progress, and community initiatives
+- **Community Ownership:** Local chapters operate independently with shared resources
+
+📖 **[Read Full Governance Document](docs/governance.md)**  
+📊 **[View Financial Transparency Reports](docs/financial-transparency.md)**
+
+---
+
+## 📜 License
+
+This project is licensed under the **Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)**.
+
+This means you are free to:
+- ✅ **Share** — copy and redistribute the material
+- ✅ **Adapt** — remix, transform, and build upon the material
+
+Under the following terms:
+- 📝 **Attribution** — You must give appropriate credit to DASTG
+- 🔄 **ShareAlike** — If you remix or build upon the material, you must distribute your contributions under the same license
+
+📖 **[Read Full License](LICENSE)**
+
+---
+
+## 🌱 Vision
+
+DASTG envisions a world where:
+
+- Every community has access to humane, structured animal care systems
+- Street animals are treated with dignity and compassion
+- Local caregivers are supported, not isolated
+- Micro-shelters become symbols of community responsibility
+- Humane behavior is normalized, not exceptional
+
+**One micro-shelter at a time, we're building kinder communities.**
+
+---
+
+## 📞 Contact
+
+For official inquiries, partnerships, or governance questions:
+- **Email:** velavan@velquest.org
+- **DASTG** https://velquestsolutions.substack.com/p/dastg-micro-shelters-big-hearts
+- **GitHub Discussions:** https://github.com/cyberzeus108/DASTG/discussions
+
+---
+
+## ⭐ Star This Repository
+
+If DASTG resonates with you, please **star this repository** to help others discover it.
+
+Together, we can build a humane, scalable movement for street animals.
+
+---
+
+**Made with 💚 by the DASTG Community**
