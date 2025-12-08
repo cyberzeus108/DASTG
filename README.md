@@ -192,8 +192,6 @@ DASTG/
 └── docs/ # Governance, transparency, FAQs
 
 
-📖 **[Full Repository Guide](docs/getting-started.md)**
-
 ---
 
 ## 🤝 How to Contribute
@@ -295,7 +293,8 @@ DASTG envisions a world where:
 
 For official inquiries, partnerships, or governance questions:
 - **Email:** velavan@velquest.org
-- **DASTG** https://velquestsolutions.substack.com/p/dastg-micro-shelters-big-hearts
+- **Show Support Website:** https://dastg.velquest.org
+- **DASTG Articles** https://velquestsolutions.substack.com/p/dastg-micro-shelters-big-hearts
 - **GitHub Discussions:** https://github.com/cyberzeus108/DASTG/discussions
 
 ---
